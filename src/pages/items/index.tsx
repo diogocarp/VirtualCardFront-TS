@@ -59,7 +59,7 @@ export default function ItemsPage(){
                 className={style.modal}
             >
                 <Modal.Header>
-                    <h2>Cadastro de produto</h2>
+                    <h2>Cadastro de Produto</h2>
                 </Modal.Header>
                 <Modal.Body>
                     <div className={style.inputDiv}>
